@@ -5,7 +5,6 @@ body {
   margin-right: auto;
   font-family: Verdana, "Arial", Helvetica, sans-serif;
   overflow: auto;
-  background-color: #2D2F35;
 }
 
 p, h2, h3 {
@@ -30,9 +29,8 @@ h2, h3{
 }
 
 #container {
-  width: 1340px;
+  border: 1px solid #ededed;
   background-color: #2D2F35;
-  margin: 0 auto;
 }
 
 #container #header {
